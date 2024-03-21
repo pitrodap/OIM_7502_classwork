@@ -19,7 +19,7 @@ OR Use this code
 
 
 
-### To access files you can open them in the browser by clicking on the file desired, but it is best to copy them to your own computer:
+### To access files you can open them in the browser by clicking on the folder "C:/Users/payal/Prog", but it is best to copy them to your own computer:
 Locate the green code button and click it
 
 Copy the URL and open git bash (terminal for MAC OS)
