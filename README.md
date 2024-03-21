@@ -28,7 +28,7 @@ Type git clone and then paste the URL and hit enter
 
 Alternatively you can directly enter:
 
-git clone https://github.com/mjmacarty/OIM7502_SP24.git
+git clone (https://github.com/pitrodap/OIM_7502_classwork)
 
 
 
@@ -39,4 +39,4 @@ Navigate to the repository on your computer
 
 Enter:
 
-git pull https://github.com/mjmacarty/OIM7502_SP24.git
+git pull https://github.com/pitrodap/OIM_7502_classwork
